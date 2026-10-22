@@ -25,7 +25,7 @@ Bragi, a design and technology studio for founders and small businesses.
 
 ### Live work
 
-| | |
+| Project | What it is |
 |---|---|
 | **[Spine](https://pedrollonch.com/spine/)** | Desktop app that turns an iMessage archive into follow-ups. MVP built at the Claude Fable 5.1 build night in Electron, React and TypeScript; messages never leave the Mac. The live demo runs on a synthetic archive. |
 | **[Generative AI campaigns](https://pedrollonch.com)** | Three spec campaigns made without a shoot or crew: a [luxury resort](https://pedrollonch.com/work/habitas), an [architectural film](https://pedrollonch.com/work/llv) and an [eight-room interior series](https://pedrollonch.com/work/sas). |
