@@ -18,10 +18,10 @@
 
 ### About
 
-I build working software, automation systems and visual campaigns with AI.
-Most of my code is written alongside coding agents (Claude Code, Codex, and open-weight models)
-that I direct, review and ship. I studied Economics at SUNY Purchase (2026) and run
-Bragi, a design and technology studio for founders and small businesses.
+I graduated with a BA in Economics in 2026 and run Bragi, a design and
+technology studio building brands, websites and AI-powered campaigns.
+Outside Bragi, I build software and AI tools of my own. I work with coding
+agents, then review, refine and ship the results myself.
 
 ### Live work
 
