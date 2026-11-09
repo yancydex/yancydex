@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pedrollonch.com">pedrollonch.com</a> &nbsp;·&nbsp;
+  <a href="https://pedroai.dev">pedroai.dev</a> &nbsp;·&nbsp;
   <a href="https://bragistudio.co">bragistudio.co</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/pedrollonch">LinkedIn</a>
 </p>
@@ -30,12 +30,6 @@ agents, then review, refine and ship the results myself.
 | **[Spine](https://pedrollonch.com/spine/)** | Desktop app that turns an iMessage archive into follow-ups. MVP built at the Claude Fable 5.1 build night in Electron, React and TypeScript; messages never leave the Mac. The live demo runs on a synthetic archive. |
 | **[Generative AI campaigns](https://pedrollonch.com)** | Three spec campaigns made without a shoot or crew: a [luxury resort](https://pedrollonch.com/work/habitas), an [architectural film](https://pedrollonch.com/work/llv) and an [eight-room interior series](https://pedrollonch.com/work/sas). |
 | **[Bragi Studio](https://bragistudio.co)** | Brand identity, websites coded from scratch, and AI-generated campaign visuals. |
-
-### Building now
-
-**Pedro Growth OS** is a private content operation for two brands. It researches, scripts, renders and
-publishes posts on scheduled jobs, controlled from Notion and Telegram, with automatic failover between
-models. Every post is approved by a human before it goes out.
 
 ### Tools
 
