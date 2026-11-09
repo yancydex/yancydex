@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/human-ai-banner-pixel-v2.png" alt="Pixel-art illustration of a human hand and a robotic hand touching fingertips at a cyan spark, with scattered code glyphs" width="100%">
+  <img src="./assets/human-ai-banner-ascii.png" alt="ASCII-character illustration of a human hand reaching up from below and a robotic hand reaching down from above, index fingers almost touching" width="100%">
 </p>
 
 <h1 align="center">Pedro Llonch</h1>
